@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mirzacodez
 - 👀 I’m interested in learning how to be a proficient developer
-- 🌱 I’m currently learning projects to learn from
+- 🌱 I’m currently looking for projects to learn from
 - 💞️ I’m looking to collaborate with like-minded individuals 
 - 📫 How to reach me mirzjava@gmail.com
 - 😄 Pronouns: he/him
