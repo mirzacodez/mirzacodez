@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @mirzacodez
-- 👀 I’m interested in learning new things everyday
-- 🌱 I’m currently looking for projects to learn from
-- 💞️ I’m looking to collaborate with like-minded individuals 
-- 📫 How to reach me mirzjava@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love basketball
+# Hi, I'm Mirza 👋
+
+Senior Cloud Engineer with 8+ years experience building enterprise cloud platforms.
+
+Currently:
+🏥 Senior Software Engineer @ UnitedHealthcare
+☁️ AWS | Azure | Kubernetes | Terraform
+⚙️ Building scalable microservices
+🚀 Focused on Platform Engineering and SRE
+
+Core Skills:
+Java • Spring Boot • Kubernetes • Docker
+Terraform • AWS • Azure
+Kafka • CI/CD • Observability
+
+Featured Projects ↓
 
 <!---
 mirzacodez/mirzacodez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
