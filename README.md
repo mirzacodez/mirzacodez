@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mirzacodez
-- 👀 I’m interested in learning how to be a proficient developer
+- 👀 I’m interested in learning new things everyday
 - 🌱 I’m currently looking for projects to learn from
 - 💞️ I’m looking to collaborate with like-minded individuals 
 - 📫 How to reach me mirzjava@gmail.com
